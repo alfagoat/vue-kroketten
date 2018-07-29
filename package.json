@@ -1,0 +1,19 @@
+{
+  "name": "vue-kroketten",
+  "version": "1.0.0",
+  "description": "vue app voor kroketten",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfagoat/vue-kroketten.git"
+  },
+  "author": "alpaking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfagoat/vue-kroketten/issues"
+  },
+  "homepage": "https://github.com/alfagoat/vue-kroketten#readme"
+}
